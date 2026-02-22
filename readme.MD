@@ -24,7 +24,7 @@ This is a small side project where I built a lightweight task tracker using Java
 
 ## Run it
 
-Live demo:
+Live demo: https://oliwier-dev.github.io/task-tracker/
 
 ## Notes
 
@@ -32,4 +32,6 @@ Live demo:
 - This project focuses on core DOM/event-handling practice.
 
 
-Note: This is my second project where I used tailwind and no plain css.
+Note: This is my second project where I used Tailwind and no plain css.
+
+https://roadmap.sh/projects/task-tracker-js
